@@ -19,7 +19,7 @@ Create a script witch does all described above, create a file with output, and i
 
 
 
-![alt text](https://github.com/byxray/SQL_LAB-_Lab3_et3_Urbanovich/result1.jpg)
+![alt text](https://github.com/byxray/SQL_LAB-_Lab3_et3_Urbanovich/blob/91ad6c928f54c02fefba15686bbc9954edc2b32d/result1.jpg)
 
 
 
