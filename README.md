@@ -19,7 +19,8 @@ Create a script witch does all described above, create a file with output, and i
 
 
 
-SQL_LAB-_Lab3_et3_Urbanovich/result1.jpg
+![alt text](https://github.com/byxray/SQL_LAB-_Lab3_et3_Urbanovich/result1.jpg)
+
 
 
 SQL_LAB-_Lab3_et3_Urbanovich/result2.jpg
