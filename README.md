@@ -16,3 +16,12 @@ And import this document to SQL data base, there BI team could process it
 Lab task: 
 
 Create a script witch does all described above, create a file with output, and import it into SQL table, named as host For now it is OK to gather data for 1 Host Import data tool could be chosen by you, the idea is to do all automatically, not manually
+
+
+
+SQL_LAB-_Lab3_et3_Urbanovich/result1.jpg
+
+
+SQL_LAB-_Lab3_et3_Urbanovich/result2.jpg
+      
+      
