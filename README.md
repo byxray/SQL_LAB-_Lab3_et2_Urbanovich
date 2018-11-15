@@ -17,12 +17,9 @@ Lab task:
 
 Create a script witch does all described above, create a file with output, and import it into SQL table, named as host For now it is OK to gather data for 1 Host Import data tool could be chosen by you, the idea is to do all automatically, not manually
 
+# Result
 
+![output-1](https://github.com/byxray/SQL_LAB-_Lab3_et3_Urbanovich/blob/91ad6c928f54c02fefba15686bbc9954edc2b32d/result1.jpg)
+![output-2](https://github.com/byxray/SQL_LAB-_Lab3_et3_Urbanovich/blob/91ad6c928f54c02fefba15686bbc9954edc2b32d/result2.jpg)
 
-![alt text](https://github.com/byxray/SQL_LAB-_Lab3_et3_Urbanovich/blob/91ad6c928f54c02fefba15686bbc9954edc2b32d/result1.jpg)
-
-
-
-SQL_LAB-_Lab3_et3_Urbanovich/result2.jpg
-      
       
