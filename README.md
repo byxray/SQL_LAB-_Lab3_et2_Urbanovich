@@ -21,5 +21,6 @@ Create a script witch does all described above, create a file with output, and i
 
 ![output-1](https://github.com/byxray/SQL_LAB-_Lab3_et3_Urbanovich/blob/91ad6c928f54c02fefba15686bbc9954edc2b32d/result1.jpg)
 ![output-2](https://github.com/byxray/SQL_LAB-_Lab3_et3_Urbanovich/blob/91ad6c928f54c02fefba15686bbc9954edc2b32d/result2.jpg)
+![output-3](https://github.com/byxray/SQL_LAB-_Lab3_et3_Urbanovich/blob/91ad6c928f54c02fefba15686bbc9954edc2b32d/result3.jpg)
 
       
