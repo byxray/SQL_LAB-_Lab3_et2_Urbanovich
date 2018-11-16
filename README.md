@@ -19,8 +19,16 @@ Create a script witch does all described above, create a file with output, and i
 
 # Result
 
+__on 1st PC__
+
 ![output-1](https://github.com/byxray/SQL_LAB-_Lab3_et3_Urbanovich/blob/91ad6c928f54c02fefba15686bbc9954edc2b32d/result1.jpg)
+
+__on 2nd PC__
+
 ![output-2](https://github.com/byxray/SQL_LAB-_Lab3_et3_Urbanovich/blob/91ad6c928f54c02fefba15686bbc9954edc2b32d/result2.jpg)
+
+__result in DB__
+
 ![output-3](https://github.com/byxray/SQL_LAB-_Lab3_et3_Urbanovich/blob/91ad6c928f54c02fefba15686bbc9954edc2b32d/result3.jpg)
 
       
